@@ -1,6 +1,6 @@
 #include "iostream"
 #include "string.h"
-#include "string"
+
 
 const int longCad = 20;
 
